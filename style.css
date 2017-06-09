@@ -1,0 +1,40 @@
+@font-face {
+   font-family: 'Gotham Medium';
+   src: url('fonts/Gotham-Medium.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+
+body, h1, p {
+    font-family: 'Gotham Medium';
+    font-size: 16px;
+    color: #333;
+    }
+    
+
+h1  {
+
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 10px;
+    
+    }
+
+h1:hover {
+    text-decoration: underline;
+    color: #337ab7;
+    cursor: pointer;
+    
+}
+
+img {
+    float: right;
+    margin: 0 auto;
+    width: 30%;
+    height: 40%;
+    margin-bottom: 30px;
+    opacity: .7;
+}
+
+
