@@ -60,10 +60,13 @@ body{
 }
 
 .img-responsivel {
+    
     float: left;
-    padding-right: 15px;
-    padding-left: 15px;
     opacity: .5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    
 }
 
 .footer-text {
