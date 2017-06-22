@@ -82,3 +82,33 @@ body{
     margin-bottom: 15px;
 
 }
+
+
+.cool-link {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.cool-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 1px;
+  background: #23527c;
+  -webkit-transition: width .2s;
+  transition: width .2s;
+}
+
+.cool-link:hover::after {
+  width: 100%;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
