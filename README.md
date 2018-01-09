@@ -1,48 +1,88 @@
-![preview Long Haul](/preview.jpg)
+# topuhit.github.io
+Github Pages / Home
+# My Github Projects
+1.  [Efficiency in design](https://topuhit.github.io/projects/efficiency-in-design)
+2.  [Intruder](https://topuhit.github.io/projects/intruder)
+3.  [Card](https://topuhit.github.io/projects/card/)
+4.  [Annual Art Exhibition - UODA - 2015](http://uodaartexhibition2015.ml)
+5.  [Annual Art Exhibition - UODA - 2015](https://topuhit.github.io/projects/annual-art-exhibition-uoda-2015/index.html)
+6.  [Responsive App](https://topuhit.github.io/responsive-app/)
+7.  [marilyn](https://topuhit.github.io/projects/marilyn/)
+8.  [Aguner Poroshmoni](https://topuhit.github.io/aguner-poroshmoni/aguner-poroshmoni.html)
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+* * *
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+Here's the list of all web development projects I have done so far.
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+*   [tariquldesign.com](http://tariquldesign.com)
+*   [blog.tariquldesign.com](http://blog.tariquldesign.com)
+*   [bellalhossain.com](https://bellalhossain.com)
+*   [tariquldesign.ml](http://tariquldesign.ml/)
 
-## Features
+* * *
 
-- Minimal, Type Focused Design
-- Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
+*   [uodaadda.wordpress.com](https://uodaadda.wordpress.com/)
+*   [uodaadda.icyboards.net/index.php](https://uodaadda.icyboards.net/index.php)
+*   [dev-tariqul-islam.pantheonsite.io](http://dev-tariqul-islam.pantheonsite.io/)
+*   [somethoughtstariquldesign.wordpress.com](https://somethoughtstariquldesign.wordpress.com/)
+*   [tariquldesignblog.wordpress.com](https://tariquldesignblog.wordpress.com)
+*   [topuhit.github.io/portfolio/index.html](https://topuhit.github.io/portfolio/index.html)
+*   [tariqul.businesscatalyst.com/index.html](http://tariqul.businesscatalyst.com/index.html)
+*   [somethoughts.bitballoon.com](http://somethoughts.bitballoon.com/)
+*   Created on 2nd March 2017, Based on ZURB Foundation hosted on BitBalloon
+*   [ghost.bellalhossain.com](http://ghost.bellalhossain.com/)
+*   [topuhit.github.io/aguner-poroshmoni/aguner-poroshmoni.html](https://topuhit.github.io/aguner-poroshmoni/aguner-poroshmoni.html)
+*   Created on 24th May 2017, Aguner Poroshmoni, HTML, CSS, Javascript
+*   [topuhit.github.io/aguner-poroshmoni/javascript/index.html](https://topuhit.github.io/aguner-poroshmoni/javascript/index.html)
+*   Created on 30th May 2017, experimentation using DIN Web Fonts, and Some JavaScript.
+*   [topuhit.github.io/projects/card](https://topuhit.github.io/projects/card/)
+*   [topuhit.github.io/projects/annual-art-exhibition-uoda-2015/index.html](https://topuhit.github.io/projects/annual-art-exhibition-uoda-2015/index.html)
+*   [topuhit.github.io/responsive-app](https://topuhit.github.io/responsive-app/)
+*   Created on 7th June 2017, forked from fgassert/responsive-app Jekyll + GitHub Pages - HTML, CSS3, and JavaScript.
+*   [topuhit.github.io/projects/marilyn](https://topuhit.github.io/projects/marilyn/)
+*   Created on 8th June 2017, Used frameworks like: PaperJS, HTML-Canvas, Bootstrap
 
-## Setup
+* * *
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. [Install Bundler](http://bundler.io/)
-5. Run `bundle install`
-6. Install gulp dependencies by running `npm install`
-7. Run Jekyll and watch files by running `gulp`
-8. Customize and watch the magic happen!
+Social Media Presence
 
-## Site Settings
+*   [facebook.com/topu.hit](https://www.facebook.com/topu.hit)
+*   [facebook.com/TariqulDesign](https://www.facebook.com/TariqulDesign)
+*   [behance.net/topu_hit](https://www.behance.net/topu_hit)
+*   [linkedin.com/in/topuhit](https://www.linkedin.com/in/topuhit)
+*   [youtube.com/user/topuhittopu](https://www.youtube.com/user/topuhittopu)
+*   [cargocollective.com/TariqulDesign](http://cargocollective.com/TariqulDesign)
+*   [github.com/topuhit](https://github.com/topuhit)
+*   [pinterest.com/topuhit](https://www.pinterest.com/topuhit/)
+*   [topuhit.imgbb.com](https://topuhit.imgbb.com/)
+*   [issuu.com/topu.hit](https://issuu.com/topu.hit)
+*   [slideshare.net/TariqulIslam27](https://www.slideshare.net/TariqulIslam27)
 
-The main settings can be found inside the `_config.yml` file:
+* * *
 
-- **title:** title of your site
-- **description:** description of your site
-- **url:** your url
-- **paginate:** the amount of posts displayed on homepage
-- **navigation:** these are the links in the main site navigation
-- **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
+List of Static Backup Sites
 
-## License
+*   [topuhit.github.io/tariquldesign/index.htm](https://topuhit.github.io/tariquldesign/index.htm)
+*   [topuhit.github.io/portfolio/index.html](https://topuhit.github.io/portfolio/index.html)
+*   [topuhit.github.io/topuhit.5gbfree.com](https://topuhit.github.io/topuhit.5gbfree.com/)
+*   [topuhit.github.io/UODAadda/index.html](https://topuhit.github.io/UODAadda/index.html)
+*   [topuhit.github.io/projects/card](https://topuhit.github.io/projects/card/)
 
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+* * *
+
+
+![alt text](https://media.cargocollective.com/1/22/725716/headerimg/th_TA1.png "TariqulDesign")
+
+
+
+#### [Web Development Links](http://tariquldesign.com/Web-Development-Links)
+
+Md Tariqul Islam  
+09/06/2017  
+Dhaka, Bangladesh [→]
+
+
+* * *
+
+© Md Tariqul Islam · Tariqul Design
+
