@@ -3,6 +3,7 @@ description: Graphic Designer
 
 url: https://topuhit.github.io/
 baseurl: ""
+cloudinaryurl: "http://res.cloudinary.com/designertariqul/image/upload/h_600,w_960/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
